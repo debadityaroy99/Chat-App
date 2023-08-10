@@ -1,4 +1,4 @@
-# Weather Detector
+# Chat App
 
 
 Chat App is a real-time messaging application that enables users to communicate with each other in a seamless and interactive manner.
