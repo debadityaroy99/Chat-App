@@ -13,7 +13,7 @@ Chat App is a real-time messaging application that enables users to communicate 
 ## Features
 
 - **Real-Time Messaging:** Experience fast and responsive messaging in real time.
-- **User-Friendly Interface:** The application presents weather details in an easy-to-understand format.
+- **User-Friendly Interface:** The application presents chats in an easy-to-understand format.
 - **Create and Join chat rooms**Easily create and join chat rooms
 - **Previous conversation loads**All the conversation stays,so keep chatting!
 
